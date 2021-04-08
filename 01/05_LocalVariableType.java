@@ -1,6 +1,6 @@
 package ch09;
 
-public class LocalVariableInter {
+public class LocalVariableType {
 
 	public static void main(String[] args) {
 

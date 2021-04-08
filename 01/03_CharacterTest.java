@@ -1,6 +1,6 @@
 package ch07;
 
-public class CharaterTest {
+public class CharacterTest {
 
 	public static void main(String[] args) {
 
