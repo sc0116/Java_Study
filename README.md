@@ -6,3 +6,4 @@
 ### 03. [객체지향 핵심](https://github.com/sc0116/Java_Study/tree/main/03)
 ### 04. [유용한 클래스](https://github.com/sc0116/Java_Study/tree/main/04)
 ### 05. [자바 자료구조](https://github.com/sc0116/Java_Study/tree/main/05)
+### 06. [다양한 기능들](https://github.com/sc0116/Java_Study/tree/main/06)
